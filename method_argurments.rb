@@ -11,6 +11,6 @@ end
 
 
 def greeting 
-  puts "#{local greeting} #{your name}, I'm  #{my name},hows your #{local_time}?"
+  puts " #{local_greeting} #{your name}, I'm  #{my name},hows your #{local_time}?"
 end
-greeting
+greeting( "hey","dagi","michelle","morning")
