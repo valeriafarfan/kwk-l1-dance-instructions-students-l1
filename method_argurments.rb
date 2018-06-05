@@ -10,7 +10,11 @@ end
 #hey,dagi,im michelle,hows your morning?
 
 
-def greeting 
-  puts " #{local_greeting} #{your name}, I'm  #{my name},hows your #{local_time}?"
-end
-greeting( "hey","dagi","michelle","morning")
+#def greeting (local_greeting,your_name,my_name,local_time)
+  #puts " #{local_greeting} #{your name}, I'm #{my name},hows your #{local_time}?"
+#end
+#greeting("hey", "dagi","michelle","morning")
+#greeting("hello", "brenda" , "paige" , "little night"
+
+
+#def greeting (my_name, my_)
